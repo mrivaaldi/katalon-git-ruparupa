@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4405a57c-147b-4577-9c08-8efb2b4a2cfe</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>47228b37-a6be-4b6f-8605-9766f90c85c1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'buy 1 get 1'</defaultValue>
+      <description></description>
+      <id>47228b37-a6be-4b6f-8605-9766f90c85c1</id>
+      <masked>false</masked>
+      <name>promo</name>
+   </variable>
+</TestCaseEntity>

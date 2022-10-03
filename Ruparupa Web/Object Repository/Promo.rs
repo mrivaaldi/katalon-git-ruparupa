@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Promo</name>
+   <tag></tag>
+   <elementGuidId>e3aaf3d5-bf4c-49d9-8d93-28fe486c1e72</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='Buy 1 Get 1'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#label-content-arrow</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='checkbox checkbox-primary']//input[@name='Buy 1 Get 1'][1][count(. | //*[@class = 'label-filter']) = count(//*[@class = 'label-filter'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3e530d2c-4fa3-4b79-880b-b689731bba76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label-filter</value>
+      <webElementGuid>868a3bbc-7630-433d-8c94-6bdaccc8bfa6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>label-content-arrow</value>
+      <webElementGuid>458ca2ec-da05-4fc1-ad1c-63834d5450e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Best OfferBuy 1 Get 1Buy 2 Get 1Buy More Save MoreCashback hingga Rp20.000Clearance SaleDiskon 10% Khusus Member ACEHarga Spesial Member &amp; BankHarga Spesial Member SelmaNew ArrivalsPromo Serba 67,000Promo Serba 670,000Spesial OnlineVoucher Diskon</value>
+      <webElementGuid>d1c203c0-bee4-47dd-83fa-fb06e7885dbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='checkbox checkbox-primary']//input[@name='Buy 1 Get 1'][1]</value>
+      <webElementGuid>e78000b0-f87d-44a8-b38c-16743913e669</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='label-content-arrow']</value>
+      <webElementGuid>db25fda8-4eda-42b2-b2cc-dd4353abe43e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='product-category-list']/div/div/div[3]/div[6]/div[2]</value>
+      <webElementGuid>384dac15-32f7-4efe-9cfb-8a4c62bd1a04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Promo'])[2]/following::div[2]</value>
+      <webElementGuid>884803f1-a0a4-4fde-ac7c-9428f93795a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yeeto'])[1]/following::div[3]</value>
+      <webElementGuid>88b636dd-d615-4cec-9dc6-b52a571df1dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]</value>
+      <webElementGuid>ab7ebe7b-b750-45c8-bd3f-a2788f2c4f77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'label-content-arrow' and (text() = 'Best OfferBuy 1 Get 1Buy 2 Get 1Buy More Save MoreCashback hingga Rp20.000Clearance SaleDiskon 10% Khusus Member ACEHarga Spesial Member &amp; BankHarga Spesial Member SelmaNew ArrivalsPromo Serba 67,000Promo Serba 670,000Spesial OnlineVoucher Diskon' or . = 'Best OfferBuy 1 Get 1Buy 2 Get 1Buy More Save MoreCashback hingga Rp20.000Clearance SaleDiskon 10% Khusus Member ACEHarga Spesial Member &amp; BankHarga Spesial Member SelmaNew ArrivalsPromo Serba 67,000Promo Serba 670,000Spesial OnlineVoucher Diskon')]</value>
+      <webElementGuid>42d886c0-c2f3-42d2-b7d3-8f2b44302499</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
